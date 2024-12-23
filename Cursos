@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Aprenda a montar seu PC do zero ao gamer pro de forma prática e descomplicada!">
+    <title>Monte Seu PC - Curso Completo</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            color: #333;
+        }
+        header {
+            background-color: #0077cc;
+            color: #fff;
+            padding: 20px;
+            text-align: center;
+        }
+        .container {
+            padding: 20px;
+            max-width: 800px;
+            margin: auto;
+            background: #fff;
+            box-shadow: 0 2px 5px rgba(0, 0, 0, 0.1);
+            border-radius: 8px;
+        }
+        h1 {
+            color: #0077cc;
+        }
+        .button {
+            display: inline-block;
+            padding: 10px 20px;
+            color: #fff;
+            background-color: #0077cc;
+            text-decoration: none;
+            border-radius: 5px;
+            margin-top: 20px;
+            text-align: center;
+        }
+        .button:hover {
+            background-color: #005fa3;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Monte Seu PC - Curso Completo</h1>
+        <p>Aprenda a montar seu próprio PC, do zero ao gamer pro!</p>
+    </header>
+    <div class="container">
+        <h2>O Que Você Vai Aprender:</h2>
+        <ul>
+            <li>Entender os componentes essenciais de um PC.</li>
+            <li>Escolher as melhores peças para seu orçamento e objetivo.</li>
+            <li>Montar seu PC passo a passo com segurança.</li>
+            <li>Configurar e otimizar para máxima performance.</li>
+            <li>Dicas exclusivas para upgrades e renda extra.</li>
+        </ul>
+
+        <h2>Por Que Participar?</h2>
+        <p>Com este curso, você economiza dinheiro, aprende uma habilidade valiosa e pode até transformar isso em uma fonte de renda! É ideal tanto para iniciantes quanto para quem quer se aprofundar no mundo da tecnologia.</p>
+
+        <a href="#" class="button">Inscreva-se Agora</a>
+    </div>
+
+    <footer>
+        <p>&copy; 2024 Monte Seu PC - Todos os Direitos Reservados</p>
+    </footer>
+</body>
+</html>
